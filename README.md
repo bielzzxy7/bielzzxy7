@@ -1,7 +1,7 @@
 # Biel
 
 <p align="center">
-  <img src="https://storageblack.cloud/midia/1775595228105.png" width="200" alt="Banner">
+  <img src="https://storageblack.cloud/midia/1775597323730.jpg" width="200" style="border-radius: 50%; border: 4px solid #3f3f3f;" alt="Biel">
 </p>
 
 > **Especialista em bots, e desenvolvedor full stack**
