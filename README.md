@@ -1,7 +1,7 @@
 # Biel
 
 <p align="center">
-  <img src="https://storageblack.cloud/midia/1775595228105.png" width="100%" alt="Banner">
+  <img src="https://storageblack.cloud/midia/1775595228105.png" width="200" alt="Banner">
 </p>
 
 > **Especialista em bots, e desenvolvedor full stack**
@@ -45,4 +45,4 @@ Em breve...
 
 ## Contato
 
-- Instagram: <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" width="16" height="16" style="vertical-align: middle;"> [@not.bieelx](https://instagram.com/not.bieelx)
+- <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" width="16" height="16" style="vertical-align: middle;"> [@not.bieelx](https://instagram.com/not.bieelx)
