@@ -26,7 +26,7 @@ Em breve...
 - <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/backend/express.svg" width="16" height="16" style="vertical-align: middle;"> Express
 - APIs REST
 - <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/backend/postgresql.svg" width="16" height="16" style="vertical-align: middle;"> SQL
-- <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/backend/supabase.svg" width="16" height="16" style="vertical-align: middle;"> Supabase
+- <img src="https://supabase.com/favicon/apple-icon-57x57.png" width="16" height="16" style="vertical-align: middle;"> Supabase
 - <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/backend/mongodb.svg" width="16" height="16" style="vertical-align: middle;"> MongoDB
 
 ### Frontend
